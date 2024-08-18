@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "1",
+    "question": "What is the purpose of the Standard for Program Management?",
+    "category": "General",
+    "difficulty": "easy",
+    "options": [
+      "The Standard for Program Management provides guidance on PRINCIPLES, PRACTICES, ROLES and ACTIVITIES of program management that are generally recognized to support good program management (most of the time)[PPRA].",
+      "It aligns program managmenet resources to follow a common lexicon.",
+      "It is a useful set of standards to guide activities that improve the performance of projects. "
+    ],
+    "correct_answer": "The Standard for Program Management provides guidance on PRINCIPLES, PRACTICES, ROLES and ACTIVITIES of program management that are generally recognized to support good program management (most of the time)[PPRA]."
+  },
+  {
+    "id": "2",
+    "question": "What is a program?",
+    "category": "General",
+    "difficulty": "easy",
+    "options": [
+      "A program is a composition of related projects, any subordinate programs, and the program activities necessary to operate in a coordinated manner and obtain more benefit than managing these efforts individually.",
+      "A program is a series of rules or guidance that tells team members what they must comply with or are forbidden from doing. ",
+      "A program is a group of related tasks to accomplish a single outcome. "
+    ],
+    "correct_answer": "A program is a composition of related projects, any subordinate programs, and the program activities necessary to operate in a coordinated manner and obtain more benefit than managing these efforts individually."
+  },
+  {
+    "id": "3",
+    "question": "If a subordinate program doesn't offer complementary benefit, it is better to____.",
+    "category": "Chapter 1",
+    "difficulty": "easy",
+    "options": [
+      "manage as a part of a protfolio.",
+      "close the program and reassign resources. ",
+      "force collaboration among project managers."
+    ],
+    "correct_answer": "manage as part of a portfolio."
+  },
+  {
+    "id": "4",
+    "question": "What is a program component?",
+    "category": "Chapter 1",
+    "difficulty": "easy",
+    "options": [
+      "a component is a necessary service that is required in order to manage the program's operations.",
+      "a component is a project or subordinate program.",
+      "a component is the effort, resource, or people needed to accomplish anything."
+    ],
+    "correct_answer": "a component is a project or subordinate program."
+  },
+  {
+    "id": "5",
+    "question": "what are activities? what is critical in their definition?",
+    "category": "Chapter 1",
+    "difficulty": "medium",
+    "options": [
+      "Activities are things done.",
+      "Activities are things done to bolster or supplement a program. The critical part is the contribution to the program. ",
+      "Activities are the actions taken while waiting for phases to change in a project or component. "
+    ],
+    "correct_answer": "Activities are things done to bolster or supplement a program. The critical part is the contribution to the program."
+  },
+  {
+    "id": "6",
+    "question": "The primary purpose of a program is to achieve ________ _________ by delivering _____. ",
+    "category": "Chapter 1",
+    "difficulty": "medium",
+    "options": [
+      "organizational strategy, value",
+      "valuable work\tstrategy",
+      "organized effort, to requirements."
+    ],
+    "correct_answer": "organizational strategy, value"
+  },
+  {
+    "id": "7",
+    "question": "Is the program lifecycle continuous or non-sequential?",
+    "category": "Chapter 1",
+    "difficulty": "easy",
+    "options": [
+      "continuous",
+      "non-sequential",
+      "neither"
+    ],
+    "correct_answer": "non-sequential"
+  },
+  {
+    "id": "Explain the three stages of the program lifecycle (DDC):",
+    "question": "8",
+    "category": "Chapter 1",
+    "difficulty": "medium",
+    "options": [
+      "Program definition, program delivery, program closure",
+      "deliberate start, development, continuance",
+      "Documentation, deploy manpower, Task completion"
+    ],
+    "correct_answer": "Program definition, program delivery, program closure"
+  },
+  {
+    "id": "9",
+    "question": "When is a program complete?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "When it delivers it's intended benefits. Incrementally, or all at the end. ",
+      "When the resources are no longer delivered by the sponsor",
+      "when the program manager is reassigned to other tasks. "
+    ],
+    "correct_answer": "When it delivers it's intended benefits. Incrementally, or all at the end."
+  },
+  {
+    "id": "10",
+    "question": "programs may be initiatied ___-down or bottom-__?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "top, up",
+      "leadership, derived",
+      "tasked, nominated"
+    ],
+    "correct_answer": "top, up"
+  },
+  {
+    "id": "11",
+    "question": "Why would programs which do not have material benefit be initiated?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "to have a positive impact on society, or support community development, or as a resilience activity, or for public health, or infrastructure.",
+      "because there is an excess of value in the organization, and it is important to keep resouurces committed.",
+      "because non-material benefits must equal material benefits for organizational strategic balance. "
+    ],
+    "correct_answer": "to have a positive impact on society, or support community development, or as a resilience activity, or for public health, or infrastructure."
+  },
+  {
+    "id": "12",
+    "question": "What is a project?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "a temporary endevor to accomplish a unique product, service, or result.",
+      "a group of resources aligned to work together. ",
+      "a number of assigned tasks that deliver value to accomplish strategic objectives."
+    ],
+    "correct_answer": "a temporary endevor to accomplish a unique product, service, or result."
+  },
+  {
+    "id": "13",
+    "question": "why program management?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "programs and components of programs are managed together to accomplish value greater than managing them individually. ",
+      "Because the skills needed for project management are inadequate for managing a program, or programs. ",
+      "Because after a project manager becomes experienced, there are greater responsibilities and challenges needed of them. "
+    ],
+    "correct_answer": "programs and components of programs are managed together to accomplish value greater than managing them individually. "
+  },
+  {
+    "id": "14",
+    "question": "What is a portfolio?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "a project, program or subordinate portfolio (unrelated to each other's benefits), managed to accomplish strategic objectives. ",
+      "a targeted body of work with specific budgetary goals, that must be controlleed.",
+      "a a set of related components and activities managed to achieve greater benefit than managing them alone. "
+    ],
+    "correct_answer": "a project, program or subordinate portfolio (unrelated to each other's benefits), managed to accomplish strategic objectives."
+  },
+  {
+    "id": "15",
+    "question": "What are the three components of a value delivery system?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Programs, projects and portfolios",
+      "initiation, execution and completion",
+      "value, delivery and stakeholders"
+    ],
+    "correct_answer": "Programs, projects and portfolios"
+  },
+  {
+    "id": "16",
+    "question": "What is program management?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "the application of knowledge, skills and principles to a program to achieve the objectives in a manner greater than managing the components individually.",
+      "The science of task management, completion, and reporting",
+      "an art and science where work is completed, and objectives are continuously delivered."
+    ],
+    "correct_answer": "the application of knowledge, skills and principles to a program to achieve the objectives in a manner greater than managing the components individually."
+  },
+  {
+    "id": "17",
+    "question": "What are the 6 interrelated performance domains?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Strategic Alignment, Benefits Management, Stakeholder Engagement, Governance Framework, Collaboration, and Lifecycle Management.",
+      "project initiation, project tracking project coordination, project accountability, project completion and project reporting",
+      "performance of work, performance or tasks, performance of coordination, performance of reporting, performance of communication and performance of project completion."
+    ],
+    "correct_answer": "Strategic Alignment, Benefits Management, Stakeholder Engagement, Governance Framework, Collaboration, and Lifecycle Management."
+  },
+  {
+    "id": "18",
+    "question": "Which of these are within the role of the program manager?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Accountable for the leadership, conduct, and performance of the program team.",
+      "Discover the best way to deliver value.",
+      "Both A and B."
+    ],
+    "correct_answer": "Both A and B."
+  },
+  {
+    "id": "19",
+    "question": "What is VUCA?",
+    "category": "General",
+    "difficulty": "medium",
+    "options": [
+      "Volatility, Uncertainty, Complexity, and ambiguousness.",
+      "Variation, utilization, co-dependency, and ambition.",
+      "Virtualization, uniform-deployment, coordinated application, and abstraction."
+    ],
+    "correct_answer": "Volatility, Uncertainty, Complexity, and ambiguousness."
+  },
+  {
+    "id": "20",
+    "question": "Which of these are not Program Management Competencies?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Stakeholder engagement, Systems Thinking, and Integration skills",
+      "Leadership and Management, Collaboration and facilitation, Communication and Negotiation",
+      "Awareness, compassion and concentrated effort"
+    ],
+    "correct_answer": "Awareness, compassion and concentrated effort"
+  },
+  {
+    "id": "21",
+    "question": "There are 10 program manager skills and competencies. Which are they? Hint Can Someone Close and Lock the Coffin After I Begin Silent Rest.",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Communication and Negotiation, Stakeholder Engagement, Change Management, Leadership and Management, Collaboration and Facilitation, Analytica Skills (critical thinking), Integration Skill(Presents a holistic picture), Business and strategic management skill, systems thinging skill, Risk Management Skill.",
+      "cooperation, service, co-dependency, loyalty, charisma, ambidexterity, innovation, beauty, smarts, reliability",
+      "Option 3 (not provided in the original text)"
+    ],
+    "correct_answer": "Communication and Negotiation, Stakeholder Engagement, Change Management, Leadership and Management, Collaboration and Facilitation, Analytica Skills (critical thinking), Integration Skill(Presents a holistic picture), Business and strategic management skill, systems thinging skill, Risk Management Skill."
+  },
+  {
+    "id": "22",
+    "question": "what is VUCA-TC?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Volatility, Uncertainty, Complexity, Ambiguity, Transformation, Change",
+      "Volatility, Uncertainty, Complexity, Ambiguity, Technology, Computation",
+      "Variance, Ubiquity, Co-valency, Abstraction, Trainable, Correlation"
+    ],
+    "correct_answer": "Volatility, Uncertainty, Complexity, Ambiguity, Transformation, Change",
+    "image_path": null
+  },
+  {
+    "id": "23",
+    "question": "What is a program sponsor?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "an individual or group from the organization that is accountable for program success. Generally in top management, providing sdequate support and funding, guidance, attention, and consideration. ",
+      "A program sponsor is an individual with access to resources, that requires a program to be done. ",
+      "A manager who directs continual work. "
+    ],
+    "correct_answer": "an individual or group from the organization that is accountable for program success. Generally in top management, providing sdequate support and funding, guidance, attention, and consideration.",
+    "image_path": null
+  },
+  {
+    "id": "24",
+    "question": "What is the role of the PMO?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "An internal organizational structure that is responsible for supporting programs, and improving program maturity. May provide: training, process improvements, quality assurance, knowledge management. ",
+      "An office for supervision of programs and projects, aligned within the organizations leadership structures, through which value is delivered. ",
+      "An advisory capacity who monitors progress of a project or program and reports unbiased result to project stakeholders, seperate from program managment or operational leadership, to ensure the true state of project or program resources is visibile at any time. "
+    ],
+    "correct_answer": "An internal organizational structure that is responsible for supporting programs, and improving program maturity. May provide: training, process improvements, quality assurance, knowledge management.",
+    "image_path": null
+  },
+  {
+    "id": "25",
+    "question": "A component has a subordinate component, greater uncertainty and risk, and a long timeframe to deliver value. is it a project or a program?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Project",
+      "Program",
+      "Unable to specify. "
+    ],
+    "correct_answer": "Program",
+    "image_path": null
+  },
+  {
+    "id": "26",
+    "question": "A component is a singular endevor, has specific risk tolerances, and is focused on delivering a product, service or good within a defined timeframe. Is it a project or a program?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Project",
+      "Program",
+      "Unable to specify"
+    ],
+    "correct_answer": "Project",
+    "image_path": null
+  },
+  {
+    "id": "27",
+    "question": "What are the 3 types of program-related change?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Program, internal, external",
+      "event driven, personal, professional",
+      "opportunity, concequence, ambiguous"
+    ],
+    "correct_answer": "Program, internal, external",
+    "image_path": null
+  },
+  {
+    "id": "28",
+    "question": "Select the type of change: Program, internal, or external: the Program's star contributor is promoted and reassigned. ",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "internal",
+      "external",
+      "Program"
+    ],
+    "correct_answer": "internal",
+    "image_path": null
+  },
+  {
+    "id": "29",
+    "question": "Select the type of change: Program, internal, or external: the subordinate project completes a phased delivery and resources are reassigned. ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Program",
+      "internal",
+      "external"
+    ],
+    "correct_answer": "Program",
+    "image_path": null
+  },
+  {
+    "id": "30",
+    "question": "Select the type of change: Program, internal, or external: The company unexpectedly doubles it's customer base dependent on your program's value delivery. ",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Program",
+      "internal",
+      "external"
+    ],
+    "correct_answer": "external",
+    "image_path": null
+  },
+  {
+    "id": "31",
+    "question": "The 3 categories of program change are: ",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Program, Internal, External",
+      "Small, Medium, Large",
+      "Event-Driven, Internal-Directed, Optional"
+    ],
+    "correct_answer": "Program, Internal, External",
+    "image_path": null
+  },
+  {
+    "id": "32",
+    "question": "On Program Change: Because a Program is a change _________ activitograms _________ change throughout their lifecycle, and this is called program _______.",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "management, naturally, evolution",
+      "driven, independently, growth",
+      "averse, avoid, protection"
+    ],
+    "correct_answer": "management, naturally, evolution",
+    "image_path": null
+  },
+  {
+    "id": "33",
+    "question": "What is Internal Change?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Change within the program istelf. Such as team/resource composition changeership change. ",
+      "When a leader changes a goal or strategic objective and the program must change to meet it",
+      "Environmental or economic condition based opportunity capture."
+    ],
+    "correct_answer": "Change within the program istelf. Such as team/resource composition change, leadership change.",
+    "image_path": null
+  },
+  {
+    "id": "34",
+    "question": "What is external change?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Change driven from outside the program that impacts the program. ",
+      "Environmental and economic change that is external to the program.",
+      "A naturally occuring process of program benefit influencing the external environment for benefits realization."
+    ],
+    "correct_answer": "Change driven from outside the program that impacts the program.",
+    "image_path": null
+  },
+  {
+    "id": "35",
+    "question": "What are the 3 categories of complexity?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "human behavior, systems behavior, and ambiguous/both.",
+      "computer, customer, completion",
+      "light, medium, heavy"
+    ],
+    "correct_answer": "human behavior, systems behavior, and ambiguous/both.",
+    "image_path": null
+  },
+  {
+    "id": "36",
+    "question": "Fill in the blanks: Complexity arises because there is a weak tie between _____ & ______ due to the unpredictability of ____ or _____ behavior (or both).",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "cause, effect, human, system",
+      "worker, leader, environment, economy",
+      "project, program customer, stakeholder"
+    ],
+    "correct_answer": "cause, effect, human, system",
+    "image_path": null
+  },
+  {
+    "id": "37",
+    "question": "What is relatedness?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Interdependent work to achieve benefit in the value delivery system. ",
+      "Proximity of components to programs",
+      "frequency of similarity of tasks in the WBS"
+    ],
+    "correct_answer": "Interdependent work to achieve benefit in the value delivery system.",
+    "image_path": null
+  },
+  {
+    "id": "38",
+    "question": "How do portfolios differ from programs related to time",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "A program has a beginning, a set of expected deliverables, and benefits realized, while a portfolio is a grouping of already started components, and has no end date specified.",
+      "Portfolios are much longer than programs",
+      "Portfolio has a start and a stop while a program continues indefinitely delivering value. "
+    ],
+    "correct_answer": "A program has a beginning, a set of expected deliverables, and benefits realized, while a portfolio is a grouping of already started components, and has no end date specified.",
+    "image_path": null
+  },
+  {
+    "id": "39",
+    "question": "What are the 8 program Principles? (SBSTCLRG)",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Stakeholder, Benefits Realization, Synergy, Team of Teams, change, Leadership, Risk, Governance",
+      "specifics, butresses, sources, Taste, concurrence, loyalty, relations, go-getter attitude",
+      ""
+    ],
+    "correct_answer": "Stakeholder, Benefits Realization, Synergy, Team of Teams, change, Leadership, Risk, Governance",
+    "image_path": null
+  },
+  {
+    "id": "40",
+    "question": "What is the Stakeholder's Principle?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "It ensures stakeholders expectations are in harmony with program benefit and organization strategy. ",
+      "Stakeholders must realize benefits before organization. ",
+      ""
+    ],
+    "correct_answer": "It ensures stakeholders expectations are in harmony with program benefit and organization strategy.",
+    "image_path": null
+  },
+  {
+    "id": "41",
+    "question": "Which are the characteristics of the Stakeholder's PrPrinciple?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Proactiveness, Facilitation, Interpersonal Skills, Collaboration, Adaptivity, Monitoring, clarity",
+      "enagement, charm, response time, truthfullness",
+      "honesty, frankness, systems view, superior bargaining position"
+    ],
+    "correct_answer": "Proactiveness, Facilitation, Interpersonal Skills, Collaboration, Adaptivity, Monitoring, clarity",
+    "image_path": null
+  },
+  {
+    "id": "42",
+    "question": "What is Benefits Realization?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "The gain of the organization from the outcome of the program",
+      "The harvesting of program resources for beneficial use",
+      "When the stakeholder realizes that the program was a good idea after all"
+    ],
+    "correct_answer": "The gain of the organization from the outcome of the program",
+    "image_path": null
+  },
+  {
+    "id": "43",
+    "question": "What is the definition of VALUE?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Delivered benefit - delivery cost = value",
+      "Operating budget - sum of resources = value",
+      "Difference between this outcome and outcomes of similar programs. "
+    ],
+    "correct_answer": "Delivered benefit - delivery cost = value",
+    "image_path": null
+  },
+  {
+    "id": "44",
+    "question": "When to calculate value (anticipated or otherwise)?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Before program initiation",
+      "upon resource approval",
+      "during component closure"
+    ],
+    "correct_answer": "Before program initiation",
+    "image_path": null
+  },
+  {
+    "id": "45",
+    "question": "A project focuses on ______ risk while a program focuses on _____ risk. ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "controlling, balance",
+      "avoidance, acceptance",
+      "small, large"
+    ],
+    "correct_answer": "controlling, balance",
+    "image_path": null
+  },
+  {
+    "id": "46",
+    "question": "What are the enablers of benefits realization?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Processes, measurement, metrics, tools",
+      "accounting, operations, closeout",
+      "resources, constraints, accounting"
+    ],
+    "correct_answer": "Processes, measurement, metrics, tools",
+    "image_path": null
+  },
+  {
+    "id": "47",
+    "question": "What is the principle of synergy?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "a method to unite efforts and create aligned program structure to optimize benefit delivery effectively and efficiently",
+      "When good things happen (opportunities) in a program because of good preparation",
+      "When two top component performers independently coordinate"
+    ],
+    "correct_answer": "a method to unite efforts and create aligned program structureto optimize benefit delivery effectively and efficiently",
+    "image_path": null
+  },
+  {
+    "id": "48",
+    "question": "Synergy attempts to align ________ and _____ with _______ realization process.",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "beneficiaries, strategy, benefits",
+      "performers, products, work",
+      "opportunities, risks, response"
+    ],
+    "correct_answer": "beneficiaries, strategy, benefits",
+    "image_path": null
+  },
+  {
+    "id": "49",
+    "question": "Is synergy momentary or continuous?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Synergy requires continuous evaluation and effort",
+      "Synergy is a momentary effect when ideas converge",
+      ""
+    ],
+    "correct_answer": "Synergy requires continuous evaluation and effort",
+    "image_path": null
+  },
+  {
+    "id": "5o",
+    "question": "Fill in the blanks: Synergies should improve collaboration, _______ and ________ in the _____ program team. ",
+    "category": "general ",
+    "difficulty": "easy",
+    "options": [
+      "Cooperation, communication, extended",
+      "benefits, value, resourced",
+      "operations, accounting, value-driven"
+    ],
+    "correct_answer": "Cooperation, communication, extended",
+    "image_path": null
+  },
+  {
+    "id": "51",
+    "question": "what is team of teams?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "A network of relationships across projects, programs, products and processes that creaee an integrated team structure. ",
+      "Voluntary contribution of top performers to form a special team to deliver value.",
+      "A mandatory communications event that is built into program structure to enforce information sharing."
+    ],
+    "correct_answer": "A network of relationships across projects, programs, products and processes that creaee an integrated team structure.",
+    "image_path": null
+  },
+  {
+    "id": "52",
+    "question": "Team of Teams enablers are: ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "WBS, Responsibility Matrix, RACI Chart",
+      "Email, instant messaging, video chat",
+      "Harmony, friendship, empathy"
+    ],
+    "correct_answer": "WBS, Responsibility Matrix, RACI Chart",
+    "image_path": null
+  },
+  {
+    "id": "53",
+    "question": "What two things are absolutely vital for successful Team of Teams?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Program Management Information System (PMIS), Cultural underpinnings for empathy and sharing",
+      "Multiple teams, central leadership",
+      "idea exchange enforcement, mandatory resource trading"
+    ],
+    "correct_answer": "Program Management Information System (PMIS), Cultural underpinnings for empathy and sharing",
+    "image_path": null
+  },
+  {
+    "id": "54",
+    "question": "What are the two reasons for managing change?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "to improve efficiency for benefity realization, to evaluate change results against strategic goals and benefits.",
+      "To avoid project, component or program failure, to encourage resource smoothing",
+      "To justify risk acceptance, and to capture opportunities to make up for losses."
+    ],
+    "correct_answer": "to improve efficiency for benefity realization, to evaluate change results against strategic goals and benefits.",
+    "image_path": null
+  },
+  {
+    "id": "55",
+    "question": "What are the 6 enablers of change?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Assessment, Adoption, assimilation, motivation, engagement and communication, Urgency and Spped, Embracing risk",
+      "Uncertainty, environment, Leadership, risk, action, response",
+      "Human-driven, Program-induced, Societal, Governmental/regulatory, avoidable, accepting"
+    ],
+    "correct_answer": "Assessment, Adoption, assimilation, motivation, engagement and communication, Urgency and Spped, Embracing risk",
+    "image_path": null
+  },
+  {
+    "id": "56",
+    "question": "Drivers of internal change?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      " need for a new capability and synergy; Response oto performance gap; a transformation; a need for more capacity",
+      "Component resource loss, Promotion, Portfolio determined",
+      ""
+    ],
+    "correct_answer": "need for a new capability and synergy; Response to performance gap; a transformation; a need for more capacity",
+    "image_path": null
+  },
+  {
+    "id": "57",
+    "question": "External Drivers of Change?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Tech advances, Demographic changes, compliance needs, Socioeconomic pressure",
+      "Finance, growth, and loss",
+      ""
+    ],
+    "correct_answer": "Tech advances, Demographic changes, compliance needs, Socioeconomic pressure",
+    "image_path": null
+  },
+  {
+    "id": "58",
+    "question": "which is true: A. Projects manage and control change. B. Portfolios monitor change in the environment. C. Programs defer change management to project or protfolio.",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "A only",
+      "A and B",
+      "All three"
+    ],
+    "correct_answer": "A and B",
+    "image_path": null
+  },
+  {
+    "id": "59",
+    "question": "true or false: a protfolio may modify a program, cancel a program, or start a new program. ",
+    "category": "general",
+    "difficulty": "esay",
+    "options": [
+      "True",
+      "False",
+      ""
+    ],
+    "correct_answer": "True",
+    "image_path": null
+  },
+  {
+    "id": "60",
+    "question": "Managing change at program level requires: ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Component level transition across all stages of the program",
+      "the ability to add, modify, cancel and terminate a program",
+      "Both Option 1 and 2. "
+    ],
+    "correct_answer": "Both Option 1 and 2. ",
+    "image_path": null
+  },
+  {
+    "id": "61",
+    "question": "DADC acronym of change management means: ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Definition, Analysis, Delivery, Closure",
+      "Develop, action, decide, capture",
+      "decompose, aggregate, dispute, consign"
+    ],
+    "correct_answer": "Definition, Analysis, Delivery, Closure",
+    "image_path": null
+  },
+  {
+    "id": "62",
+    "question": "what is the acronym IAD for definition change management requirement?",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "ID the need for change, Assess program readiness, Define approach.",
+      "Individual, aggregate, division (corporate).",
+      "Both"
+    ],
+    "correct_answer": "ID the need for change, Assess program readiness, Define approach.",
+    "image_path": null
+  },
+  {
+    "id": "63",
+    "question": "gthe Analysis component of change management is defined as:",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Evaluate the impact at program and componnet level",
+      "to use reasoning to estimate probabilty of accomplishment",
+      "a deliberate accounting of sources and new demands"
+    ],
+    "correct_answer": "Evaluate the impact at program and componnet level",
+    "image_path": null
+  },
+  {
+    "id": "64",
+    "question": "Delivery component of Change Management has two sub components: _____ and ______.",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Make decisions, mobilize resources",
+      "execution and principle",
+      "GTD, schedule"
+    ],
+    "correct_answer": "Make decisions, mobilize resources",
+    "image_path": null
+  },
+  {
+    "id": "65",
+    "question": "Closure in change management is defined as:",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "to ensure artifacts are updated and capture changes",
+      "resource reduction",
+      "a process to maintain component resources by creating additional phased work"
+    ],
+    "correct_answer": "to ensure artifacts are updated and capture changes",
+    "image_path": null
+  },
+  {
+    "id": "66",
+    "question": "Which are true sources of change",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Enterprise Environmental Factor (EEF), sensitivity of business case",
+      "All of Option 1 and Leadership direction",
+      "All of Option 1 and change in organizational strategy and change from a component's delivery. "
+    ],
+    "correct_answer": "All of Option 1 and change in organizational strategy and change from a component's delivery.",
+    "image_path": null
+  },
+  {
+    "id": "67",
+    "question": "what is the change management strategy for programs:",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Embrace change and Risk; navigate through complexity",
+      "defer change and risk management to projects, accept portfolio directions on complexity managment",
+      "a hybrid approach where protfolios strongly avoid and control risk while projects embrace change and accept risks and opportunities. "
+    ],
+    "correct_answer": "Embrace change and Risk; navigate through complexity",
+    "image_path": null
+  },
+  {
+    "id": "68",
+    "question": "Define leadership:",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "to inspire, motivate and lead the team to realize benefits, value and outcome.",
+      "A function of personal charisma where the biggest or loudest member of the group sets group direction",
+      "A role whereby an appointed authority figure makes all decisions"
+    ],
+    "correct_answer": "to inspire, motivate and lead the team to realize benefits, value and outcome.",
+    "image_path": null
+  },
+  {
+    "id": "69",
+    "question": "Name the leadership must dos:",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "show empathy, create a climate of trust, facilitate negotiations and resolve conflict",
+      "Ensure consistency, empower component managers, coach and mentor program teams and fellows",
+      "both A and B"
+    ],
+    "correct_answer": "both A and B",
+    "image_path": null
+  },
+  {
+    "id": "70",
+    "question": "How does a leader pace a program?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Engage senior leadership, integrate program work, connect cross-functional dependencies, Proactively identify risks, and fully realize program benefits",
+      "Identify priority component and assign highest producing resources to that WBS component; shift them to the next priority task upon completion",
+      "Shorten all suspenses to ensure that work is done on time, Incremantally reallocate program manager's reserve to component overruns, initiate next tasks ahead of schedule if component accomplishes shortened suspenses."
+    ],
+    "correct_answer": "Engage senior leadership, integrate program work, connect cross-functional dependencies, Proactively identify risks, and fully realize program benefits",
+    "image_path": null
+  },
+  {
+    "id": "71",
+    "question": "True or False: Program governance is both structure and beat practices",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "true",
+      "false",
+      ""
+    ],
+    "correct_answer": "true",
+    "image_path": null
+  },
+  {
+    "id": "72",
+    "question": "It is the responsibility of the program manager to give componnet leaders autonomy within the scoe of the program.",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "True",
+      "False",
+      ""
+    ],
+    "correct_answer": "True",
+    "image_path": null
+  },
+  {
+    "id": "73",
+    "question": "program governance requires",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Emotional intelligence, Social and cognitive intelligence",
+      "Option 1 plus self awareness, a value system",
+      "Option 2 plus financial or disciplinary control of project resources"
+    ],
+    "correct_answer": "Option 1 plus self awareness, a value system",
+    "image_path": null
+  },
+  {
+    "id": "74",
+    "question": "Name the three kinds of trust:",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Personality based, cognitive, institutional",
+      "financial, debt related",
+      "social, emotional, physical"
+    ],
+    "correct_answer": "Personality based, cognitive, institutional",
+    "image_path": null
+  },
+  {
+    "id": "75",
+    "question": "The personal/interpersonal skills are: ERCPCFI- Everyone Really Can Provide Critical Friendly Influence. Name them",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Empathy, Respect, Courage, Political savvyness, collaboration, facilitation, and influence",
+      "Ego, reliability, candor, perfection, can-do attitude, financial savvyness, inquisitive",
+      ""
+    ],
+    "correct_answer": "Empathy, Respect, Courage, Political savvyness, collaboration, facilitation, and influence",
+    "image_path": null
+  },
+  {
+    "id": "76",
+    "question": "What is risk?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "an uncertain event that has a positive or negative impact on a programs objectives. ",
+      "A opportunity or threat that may cause more work for the program team.",
+      "A task that must be avoided to stay on critical path"
+    ],
+    "correct_answer": "an uncertain event that has a positive or negative impact on a programs objectives.",
+    "image_path": null
+  },
+  {
+    "id": "77",
+    "question": "What is optimistic bias?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "a tendancy to view the glass as half full",
+      "a penchance to be biased against easy results ",
+      "A tendancy to forecast in a positive way"
+    ],
+    "correct_answer": "A tendancy to forecast in a positive way",
+    "image_path": null
+  },
+  {
+    "id": "78",
+    "question": "what are the Risk ID and Analysis Factors?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      " 1. Risks ma occur during program lifecycle and impact now",
+      "2. Risks may affect realization of program benefits later",
+      "both"
+    ],
+    "correct_answer": "both",
+    "image_path": null
+  },
+  {
+    "id": "79",
+    "question": "How to guard against Optimistic Bias?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Benchmark against a similar set of risks from other like programs",
+      "Decrease prognosis for benefits by 15%",
+      "Under-promise until you are sure of the ability to hit the reduced benchmark, then over deliver."
+    ],
+    "correct_answer": "Benchmark against a similar set of risks from other like programs",
+    "image_path": null
+  },
+  {
+    "id": "80",
+    "question": "What is a program roadmap",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "a depiction of program component intersetction to further program interfaces and reveal touchpoints",
+      "a graphic of all the project plans in one view",
+      "both"
+    ],
+    "correct_answer": "a depiction of program component intersetction to further program interfaces and reveal touchpoints",
+    "image_path": null
+  },
+  {
+    "id": "81",
+    "question": "Define Program Governance:",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "Management effort to ensure a program is managed properly to deliver program benefits by establishing the methods by which an organization manages a program. ",
+      "Decisionmaking by the program manager to avoid risk or manage change. ",
+      "A set of ppolicy based regulations that are meant to be followed for the benefit of the team. "
+    ],
+    "correct_answer": "Management effort to ensure a program is managed properly to deliver program benefits by establishing the methods by which an organization manages a program.",
+    "image_path": null
+  },
+  {
+    "id": "82",
+    "question": "What are the components of Program Governance?",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Framework, Functions, Processes and Tools bu which a program is monitored, managed, and supported. ",
+      "Hard work, communication and followership",
+      "A grouping of work tasks that are used to deliver benefits to the organization. "
+    ],
+    "correct_answer": "ramework, Functions, Processes and Tools bu which a program is monitored, managed, and supported.",
+    "image_path": null
+  },
+  {
+    "id": "83",
+    "question": "What are the program Governance Principles:",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "(TOCRA): Transparency, Oversight, Compliance, Resiliency, Adaptivity",
+      "(OMBE): Optimization, Budgeting, Management, Effort",
+      "(DFPC): Decision-making, Followership, Policymaking, Commuication"
+    ],
+    "correct_answer": "(TOCRA): Transparency, Oversight, Compliance, Resiliency, Adaptivity",
+    "image_path": null
+  },
+  {
+    "id": "84",
+    "question": "What is the program-strategy-alignment process?",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "A method to control a program within the organizations governing principles",
+      "A recursive examination of program execution to see where strategy was and was not followed",
+      "A deliberate strategic directive from organizaional management during program initiation to orient the program on accomplishing only benefits associated with the strategy"
+    ],
+    "correct_answer": "A method to control a program within the organizations governing principles",
+    "image_path": null
+  },
+  {
+    "id": "85",
+    "question": "True or False: A program is constrained by multiple governance bodies most of the time. ",
+    "category": "general",
+    "difficulty": "easy",
+    "options": [
+      "True",
+      "False",
+      ""
+    ],
+    "correct_answer": "True",
+    "image_path": null
+  },
+  {
+    "id": "86",
+    "question": "______________ ______________ is a platform for important escalating issues such as social issues or norms. ",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "Program Governance",
+      "media communication",
+      "Anonymous complaint"
+    ],
+    "correct_answer": "Program Governance",
+    "image_path": null
+  },
+  {
+    "id": "87",
+    "question": "Name the Program Management Performance Domains",
+    "category": "general",
+    "difficulty": "medium",
+    "options": [
+      "(SBSGCL): Strategic Alignment, Benefits Management, Stakeholder Engagement, Governance",
+      "(SBSGCL): Strategic Alignment, Benefits Management, Stakeholder Engagement, Governance Framework, Collaboration, Lifecycle Management",
+      "(APEMRC): Program Action, Program Performance, Program Evaluation, Program Mangement, Program Reporting, Program Closure"
+    ],
+    "correct_answer": "SBSGCL): Strategic Alignment, Benefits Management, Stakeholder Engagement, Governance Framework, Collaboration, Lifecycle Management",
+    "image_path": null
+  },
+  {
+    "id": "88",
+    "question": "What are the tools for the Strategic Alignment Performance Domain: ",
+    "category": "general",
+    "difficulty": "hard",
+    "options": [
+      "Business case, Program Charter, Program Management Plan, effort",
+      "Business case, Program Charter, Program Management Plan, Environmental Assessment, Risk Management Strategy, Interactions with other performance domains",
+      "Strategic followership, Situational awareness, Stakeholder documentation, Policy compliance"
+    ],
+    "correct_answer": "Business case, Program Charter, Program Management Plan, Environmental Assessment, Risk Management Strategy, Interactions with other performance domains",
+    "image_path": null
+  }
+]
